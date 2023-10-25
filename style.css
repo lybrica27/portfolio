@@ -794,18 +794,6 @@ footer a i{
     transition: 3s;
 }
 
-.scroll-left{
-    opacity: 0;
-    transform: translateX(-300px);
-    transition: 5s;
-}
-
-.scroll-right{
-    opacity: 0;
-    transform: translateX(300px);
-    transition: 4s;
-}
-
 .show-items{
     opacity: 1;
     transform: translateX(0);

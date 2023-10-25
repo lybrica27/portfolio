@@ -120,8 +120,3 @@ scrollBottom.forEach((el)=>observer.observe(el));
 const scrollTop = document.querySelectorAll('.scroll-top');
 scrollTop.forEach((el)=>observer.observe(el));
 
-const scrollLeft = document.querySelectorAll('.scroll-left');
-scrollLeft.forEach((el)=>observer.observe(el));
-
-const scrollRight = document.querySelectorAll('.scroll-right');
-scrollRight.forEach((el)=>observer.observe(el));
